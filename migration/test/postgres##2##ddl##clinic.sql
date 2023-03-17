@@ -1,1 +1,1 @@
-ALTER TABLE "clinic" ADD COLUMN valid BOOLEAN;
+ALTER TABLE "clinic" DROP COLUMN valid;
