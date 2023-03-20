@@ -1,1 +1,1 @@
-ALTER TABLE "clinic" DROP COLUMN valid;
+ALTER TABLE "clinic" ADD COLUMN valid;
