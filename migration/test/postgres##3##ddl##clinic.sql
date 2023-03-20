@@ -1,0 +1,1 @@
+ALTER TABLE "clinic" DROP COLUMN valid;
